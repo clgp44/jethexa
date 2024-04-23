@@ -1,0 +1,8 @@
+prefix=/home/hiwonder/jethexa_vm/install
+
+Name: jethexa_slam
+Description: Description of jethexa_slam
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

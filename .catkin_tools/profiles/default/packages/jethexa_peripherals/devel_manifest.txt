@@ -1,0 +1,5 @@
+jethexa_peripherals
+/home/hiwonder/jethexa_vm/devel/.private/jethexa_peripherals/cmake.lock /home/hiwonder/jethexa_vm/devel/./cmake.lock
+/home/hiwonder/jethexa_vm/devel/.private/jethexa_peripherals/lib/pkgconfig/jethexa_peripherals.pc /home/hiwonder/jethexa_vm/devel/lib/pkgconfig/jethexa_peripherals.pc
+/home/hiwonder/jethexa_vm/devel/.private/jethexa_peripherals/share/jethexa_peripherals/cmake/jethexa_peripheralsConfig.cmake /home/hiwonder/jethexa_vm/devel/share/jethexa_peripherals/cmake/jethexa_peripheralsConfig.cmake
+/home/hiwonder/jethexa_vm/devel/.private/jethexa_peripherals/share/jethexa_peripherals/cmake/jethexa_peripheralsConfig-version.cmake /home/hiwonder/jethexa_vm/devel/share/jethexa_peripherals/cmake/jethexa_peripheralsConfig-version.cmake

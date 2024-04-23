@@ -1,0 +1,8 @@
+prefix=/home/hiwonder/jethexa_vm/devel/.private/jethexa_navigation
+
+Name: jethexa_navigation
+Description: Description of jethexa_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

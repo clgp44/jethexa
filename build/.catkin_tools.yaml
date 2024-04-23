@@ -1,0 +1,6 @@
+devel_space: /home/hiwonder/jethexa_vm/devel
+install: false
+install_space: /home/hiwonder/jethexa_vm/install
+profile: default
+source_space: /home/hiwonder/jethexa_vm/src
+workspace: /home/hiwonder/jethexa_vm

@@ -1,0 +1,8 @@
+prefix=/home/hiwonder/jethexa_vm/install
+
+Name: jethexa_peripherals
+Description: Description of jethexa_peripherals
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
